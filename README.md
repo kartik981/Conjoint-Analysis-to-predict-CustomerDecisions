@@ -17,16 +17,21 @@ Understanding customer preferences is essential for effective market segmentatio
 - **Part-Worth Estimation:**
   - Measures how much each attribute level influences customer choice.
   - Example: Customers were **6.9× more likely** to choose Acer over Apple in a specific case.
+![Part-worths](https://github.com/kartik981/Conjoint-Analysis-to-predict-CustomerDecisions/blob/f8494031c63da17f5e30923845f5726f6dcdd031/variance.png)
 - **Relative Importance of Attributes:**
   - **RAM (25%)** and **Screen Size (25.85%)** were the most influential factors.
   - Customers willing to pay **$1193.19 more for Apple** than Acer.
+![Attribute Importance](https://github.com/kartik981/Conjoint-Analysis-to-predict-CustomerDecisions/blob/f8494031c63da17f5e30923845f5726f6dcdd031/attribute%20importance.png)
 
 ### Market Simulation
 - **First Choice Model:** 37% of customers preferred **Apple (256GB, 16GB RAM, 17.3in, $1500)**.
+![First Choice Model](https://github.com/kartik981/Conjoint-Analysis-to-predict-CustomerDecisions/blob/f8494031c63da17f5e30923845f5726f6dcdd031/first%20choice%20model.png)
 - **Logit Share Model:** Apple dominated, while Dell had **zero market share**.
+![Logit Share Model](https://github.com/kartik981/Conjoint-Analysis-to-predict-CustomerDecisions/blob/f8494031c63da17f5e30923845f5726f6dcdd031/logit%20share%20model.png)
 
 ### Principal Component Analysis (PCA)
 - **86% variance explained** by the first three principal components.
+![Elbow graph for Variance](https://github.com/kartik981/Conjoint-Analysis-to-predict-CustomerDecisions/blob/f8494031c63da17f5e30923845f5726f6dcdd031/variance.png)
 - **Key Insights:**
   - **RAM and Screen Size** positively correlated with customer preference.
   - **Price and Hard Drive Size** had a negative correlation.
