@@ -17,7 +17,7 @@ Understanding customer preferences is essential for effective market segmentatio
 - **Part-Worth Estimation:**
   - Measures how much each attribute level influences customer choice.
   - Example: Customers were **6.9× more likely** to choose Acer over Apple in a specific case.
-![Part-worths](https://github.com/kartik981/Conjoint-Analysis-to-predict-CustomerDecisions/blob/f8494031c63da17f5e30923845f5726f6dcdd031/variance.png)
+![Part-worths](https://github.com/kartik981/Conjoint-Analysis-to-predict-CustomerDecisions/blob/c64b72317fb6bd86ffbdb744bd087b8b81b7c11c/Picture%201.png)
 - **Relative Importance of Attributes:**
   - **RAM (25%)** and **Screen Size (25.85%)** were the most influential factors.
   - Customers willing to pay **$1193.19 more for Apple** than Acer.
